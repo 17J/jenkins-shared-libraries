@@ -1,1 +1,3 @@
-This is Sample one
+def call(){
+  echo "This is sample one"
+}
